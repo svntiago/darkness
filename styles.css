@@ -79,6 +79,15 @@ h5 {
   opacity: 0.3;
 }
 
+.separador-pdf {
+  border-bottom: 2px solid #ffff00;
+  height: 2px;
+  max-width: 120px;
+  padding: 0;
+  margin: 1em auto 0 auto;
+  opacity: 0.3;
+}
+
 .birras {
     display: block;
     margin-left: auto;
