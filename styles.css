@@ -75,7 +75,7 @@ h5 {
   height: 2px;
   max-width: 120px;
   padding: 0;
-  margin: 1% auto 0 auto;
+  margin: 1em;
   opacity: 0.3;
 }
 
@@ -84,7 +84,8 @@ h5 {
   height: 2px;
   max-width: 120px;
   padding: 0;
-  margin: 1em auto 0 auto;
+  margin-top: 1.3em;
+  margin-bottom: 1em;
   opacity: 0.3;
 }
 
